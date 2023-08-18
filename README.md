@@ -1,7 +1,7 @@
 # WSLED
 Control Neopixels from WebUI, voice assistant and also from terminal, yeah you heard it right, TUI
 
-##Get Up and Running
+## Get it Up and Running
 
 ```
 git clone https://github.com/hplvm/WSLED
